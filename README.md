@@ -93,6 +93,20 @@ Here’s how the tool looks in action:
 
 ---
 
+## 🙏 Credits
+
+This project was made possible thanks to the following open-source libraries:
+
+- [Biopython](https://biopython.org/) – Tools for biological computation ([MIT License](https://github.com/biopython/biopython/blob/master/LICENSE.rst))
+- [Plotly](https://plotly.com/python/) – Interactive graphing for Python ([MIT License](https://github.com/plotly/plotly.py/blob/master/LICENSE.txt))
+- [Pandas](https://pandas.pydata.org/) – Data analysis and manipulation ([BSD License](https://github.com/pandas-dev/pandas/blob/main/LICENSE))
+- [ipywidgets](https://ipywidgets.readthedocs.io/) – Interactive widgets in Jupyter ([BSD License](https://github.com/jupyter-widgets/ipywidgets/blob/main/LICENSE))
+- [Kaleido](https://github.com/plotly/Kaleido) – Image export for Plotly figures ([MIT License](https://github.com/plotly/Kaleido/blob/master/LICENSE))
+
+Special thanks to the open-source community for supporting reproducible science and free software development.
+
+---
+
 ## 📃 License
 
 MIT License – free to use, modify, and share.
